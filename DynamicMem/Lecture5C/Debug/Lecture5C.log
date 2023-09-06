@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\psuja\source\repos\Lecture5C\Lecture5C\main.c(62,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Lecture5C.vcxproj -> C:\Users\psuja\source\repos\Lecture5C\Debug\Lecture5C.exe

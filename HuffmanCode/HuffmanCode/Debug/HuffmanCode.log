@@ -1,0 +1,14 @@
+﻿  BInary.h
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: "public: __thiscall BinaryTree::BinaryTree(void)" (??0BinaryTree@@QAE@XZ) already defined in BInary.obj
+Source.obj : error LNK2005: "public: __thiscall Node::Node(int)" (??0Node@@QAE@H@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "private: void __thiscall BinaryTree::Clear(class Node *)" (?Clear@BinaryTree@@AAEXPAVNode@@@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "public: void __thiscall BinaryTree::Clear(void)" (?Clear@BinaryTree@@QAEXXZ) already defined in BInary.obj
+Source.obj : error LNK2005: "public: class Node * __thiscall BinaryTree::Find(int)" (?Find@BinaryTree@@QAEPAVNode@@H@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "private: class Node * __thiscall BinaryTree::FindParent(class Node *)" (?FindParent@BinaryTree@@AAEPAVNode@@PAV2@@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "private: void __thiscall BinaryTree::Print(class Node *)" (?Print@BinaryTree@@AAEXPAVNode@@@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "public: void __thiscall BinaryTree::Print(void)" (?Print@BinaryTree@@QAEXXZ) already defined in BInary.obj
+Source.obj : error LNK2005: "public: void __thiscall BinaryTree::erase(int)" (?erase@BinaryTree@@QAEXH@Z) already defined in BInary.obj
+Source.obj : error LNK2005: "public: void __thiscall BinaryTree::insert(int)" (?insert@BinaryTree@@QAEXH@Z) already defined in BInary.obj
+C:\Users\psuja\Desktop\Uni\Visual Studio Backup\ALGO\repos\HuffmanCode\Debug\HuffmanCode.exe : fatal error LNK1169: one or more multiply defined symbols found
